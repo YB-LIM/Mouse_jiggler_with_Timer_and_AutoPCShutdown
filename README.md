@@ -1,7 +1,7 @@
 # Smart Mouse Jiggler
-Smart Mouse Jiggler supports Mouse jiggling and Timer with Automatic PC shutdown<br>
-![1](https://github.com/YB-LIM/Mouse_jiggler_with_Timer_and_AutoPCShutdown/assets/105615106/5f567f5d-3ec0-4f8f-89c4-ef8d0ee21781)
-![2](https://github.com/YB-LIM/Mouse_jiggler_with_Timer_and_AutoPCShutdown/assets/105615106/5d279ac1-b295-49de-b327-c7ae825a1c8f)
+Smart Mouse Jiggler supports Mouse jiggling and Timer with Automatic PC shutdown<br><br>
+![GUI](https://github.com/YB-LIM/Mouse_jiggler_with_Timer_and_AutoPCShutdown/assets/105615106/d4f74866-edb6-40ce-80f2-e138c2f52677)
+
 
 
 # AUTHOR
