@@ -1,5 +1,6 @@
 # Smart Mouse Jiggler
 Smart Mouse Jiggler supports Mouse jiggling and Timer with Automatic PC shutdown
+
 # AUTHOR
 Name: Youngbin LIM<br>
 Contact: lyb0684@naver.com
