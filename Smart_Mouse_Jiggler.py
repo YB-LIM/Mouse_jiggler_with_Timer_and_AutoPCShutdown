@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun Jun  4 14:31:58 2023
+Smart Mouse Jiggler: Mouse jiggler with Timer and Automatic PC shutdown 
 
-@author: YLM4
+AUTHOR: Youngbin LIM
+CONTACT: lyb0684@naver.com
 """
 
 import sys
