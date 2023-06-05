@@ -8,7 +8,7 @@ jiggles mouse for a user-specified time, and shutdown PC when time is up<br><br>
 Name: Youngbin LIM<br>
 Contact: lyb0684@naver.com
 # Install
-Requirements: PyQt5, pyautogui <br> Install via pip as follows:<br> pip install PyQt <br>pip install pyautogui
+Requirements: PyQt5, pyautogui <br> Install requirements via pip as follows:<br> pip install PyQt <br>pip install pyautogui
 <br> 
 Icon.png file should be in the same directory with .py file. <br>If you want to use it on python-free environment, please send me an email
 # Buy me a coffee
