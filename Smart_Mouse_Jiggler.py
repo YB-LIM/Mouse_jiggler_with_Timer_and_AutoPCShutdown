@@ -92,7 +92,8 @@ class MyApp(QMainWindow):
     def move_mouse(self):
         x, y = pyautogui.position()
         pyautogui.moveTo(x + random.randint(-5, 5), y + random.randint(-5, 5))
-
+        pyautogui.press('numlock')
+        
     def shutdown(self):
         if self.shutdown_check.isChecked():
             os.system('shutdown /s /t 1')
